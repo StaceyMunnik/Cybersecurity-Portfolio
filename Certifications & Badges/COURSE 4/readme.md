@@ -1,6 +1,3 @@
-### Tools of the Trade: Linux and SQL
+#   Tools of the Trade: Linux and SQL
 
-
-This course focused on building foundational technical skills essential to security operations, covering the Linux operating system and SQL for data querying. Key topics included navigating the Linux command line, managing files and directories, working with filesystem permissions, and using Bash scripting to automate routine security tasks. The course also introduced SQL fundamentals, including writing basic queries to filter, sort, and retrieve data — a core skill for investigating logs and databases during security analysis.
-
-Key skills demonstrated,Linux command-line navigation and file management,Filesystem permissions and access control,Bash scripting for task automation,SQL querying for data filtering and retrieval and Applying Linux and SQL fundamentals to security-relevant, real-world scenarios
+This course focused on building foundational technical skills essential to security operations, covering the Linux operating system and SQL for data querying. Key topics included navigating the Linux command line, managing files and directories, working with filesystem permissions, and using Bash scripting to automate routine security tasks. The course also introduced SQL fundamentals, including writing basic queries to filter, sort, and retrieve data — a core skill for investigating logs and databases during security analysis. They key skills demonstrated,Linux command-line navigation and file management,Filesystem permissions and access control,Bash scripting for task automation,SQL querying for data filtering and retrieval and Applying Linux and SQL fundamentals to security-relevant, real-world scenarios
