@@ -1,123 +1,72 @@
-### Google Foundations of Cybersecurity
-Learning Portfolio
-
 ![image](https://github.com/SWE-StaceyL/Google-Cybersecurity-Portfolio/blob/main/0.png?raw=true)
 
-### Google Cybersecurity Certificate — Learning Portfolio
+### Cybersecurity Portfolio
+Welcome to my Cybersecurity Portfolio
+This repository showcases a collection of hands-on projects and labs completed as part of my cybersecurity certifications and professional development. It demonstrates the practical, technical skills acquired across nine completed courses, culminating in certification upon successful completion — reflecting both my foundational knowledge and applied technical expertise in the field.
 
----
+### About This Portfolio
+This portfolio comprises projects undertaken across multiple certification programs and self-directed study, including technical notes, lab walkthroughs, reflective analyses, and hands-on project outputs — utilizing tools such as Splunk SPL, Chronicle, Wireshark, tcpdump, Suricata, Wazuh, and Security Onion.
 
-### About This Repository
+### Programme Overview: The Google Cybersecurity Certificate consists of 9 courses:
+1.Foundations of Cybersecurity
+2.Play It Safe: Manage Security Risks
+3.Connect and Protect:Networks and Network Security
+4.Tools of the Trade: Linux and SQL
+5.Assets, Threats, and Vulnerabilities
+6.Sound the Alarm: Detection and Response
+7.Automate Cybersecurity Tasks with Python
+8.Put It to Work: Prepare for Cybersecurity Jobs
+9.Accelerate Your Job Search with AI
 
-This repository documents my journey through the **Google Cybersecurity Professional Certificate** on Coursera. It contains notes, lab walkthroughs, reflections, and hands-on project outputs for each course in the programme.
+The portfolio also covers practical case studies in Security Operations Centers (SOC), incident handling, vulnerability management, and related domains. Each project includes documentation, screenshots, code samples, and concise reports demonstrating methodology and technical decision-making, inclusive use of the following cybersecurity tools:
+. Wireshark, Nmap : for network security and vulnerability analysis
+. Kali Linux, Metasploit : for penetration testing and ethical hacking
+. Python, Bash : for automation and scripting
+. Wazuh, Suricata, Splunk : for threat detection, endpoint security, and cloud IAM
+. SQL : for database security and queries
+. SIEM systems:for security event monitoring and incident response
 
-My goal is to build a career as a **Security Analyst**, combining this certification with my AWS Cloud Practitioner studies and practical lab experience.
+This portfolio is designed to demonstrate:
+. Security risk audits and assessments
+. Threat analysis and incident response
+. Network security design and monitoring
+. Identity and access management using Active Directory
+. Hands-on use of tools like Wireshark, Nmap,, and SQL
+. Scripting automation tasks using Python
+. Governance, risk, and compliance strategies
 
----
+### Tools & Technologies
+Network Security: Wireshark, Nmap, Snort
+Penetration Testing: Kali Linux, Metasploit, Burp Suite
+Cloud Security: AWS
+Threat Detection: Splunk,
+Scripting & Automation: Python, Bash
+SIEM: Splunk, Sentinel
+Incident Response: Splunk, Python
+Identity & Access Management: AWS
+Database Security: SQL, MySQL
 
-## Programme Overview
+### Learning, Certifications & Bandges
+Netcamps Group Cybersecurity Workshop
+(Coursera) Google Cybersecurity Professional Certificate 
 
-The Google Cybersecurity Certificate consists of 8 courses:
+<img width="348" height="332" alt="Bandge" src="https://github.com/user-attachments/assets/568010d1-3f90-4d77-9f76-74fa9bb82364" />
 
-| # | Course | Status |
-|---|--------|--------|
-| 1 | Foundations of Cybersecurity | Complete |
-| 2 | Play It Safe: Manage Security Risks | Complete |
-| 3 | Connect and Protect: Networks and Network Security | Complete |
-| 4 | Tools of the Trade: Linux and SQL  Complete |
-| 5 | Assets, Threats, and Vulnerabilities | ⏳ Upcoming |
-| 6 | Sound the Alarm: Detection and Response | ⏳ Upcoming |
-| 7 | Automate Cybersecurity Tasks with Python | ⏳ Upcoming |
-| 8 | Put It to Work: Prepare for Cybersecurity Jobs | ⏳ Upcoming |
+### Contact Me
+LinkedIn:www.linkedin.com/in/stacey-m-11a6222a
+Email: stacey.munnik@outlook.com 
+Feel free to contact me should you have any questions or would like to discuss cybersecurity trends, methodologies, or career opportunities.
 
----
+### Future Projects
+This portfolio is continually evolving. New projects will be added timely, as I continue to learn and grow in the cybersecurity field.
 
-### Repository Structure
+### About Me
+I am passionate about securing systems, automating workflows, and strengthening enterprise security posture. With a solid foundation in both theoretical and practical cybersecurity skills, I am focused on helping organizations mitigate risk and defend against evolving cyber threats. I am eager to apply this knowledge to real-world security challenges and contribute to building resilient, secure environments.
 
 ```
-google-cybersecurity-cert/
-│
-├── 01-foundations/
-│   ├── notes.md
-│   ├── key-concepts.md
-│   └── reflection.md
-│
-├── 02-security-risks/
-│   ├── notes.md
-│   ├── frameworks-and-controls.md
-│   └── reflection.md
-│
-├── 03-networks/
-│   └── (coming soon)
-│
-├── 04-linux-and-sql/
-│   └── (coming soon)
-│
-├── 05-assets-threats-vulnerabilities/
-│   └── (coming soon)
-│
-├── 06-detection-and-response/
-│   └── (coming soon)
-│
-├── 07-python-automation/
-│   └── (coming soon)
-│
-├── 08-job-readiness/
-│   └── (coming soon)
-│
-├── labs/
-│   ├── lab-01-audit-checklist.md
-│   └── lab-02-incident-journal.md
-│
-├── resources/
-│   ├── glossary.md
-│   └── useful-links.md
-│
-└── README.md
-```
 
----
 
-### Skills Being Developed
 
-- **Security Frameworks** — NIST CSF, CIA Triad, OWASP
-- **Risk Management** — Threat identification, vulnerability assessment, risk mitigation
-- **Network Security** — TCP/IP, firewalls, VPNs, intrusion detection
-- **Linux** — Command-line tools for security analysis
-- **SQL** — Database querying for log analysis
-- **Python** — Automation of cybersecurity tasks
-- **SIEM Tools** — Google Chronicle, Splunk (introductory)
-- **Incident Response** — Detection, containment, recovery
 
----
 
-### Related Repositories
-
-| Repo | Description |
-|------|-------------|
-| [aws-security-labs](../aws-security-labs) | AWS IAM, CloudTrail, and GuardDuty hands-on labs |
-| [python-security-scripts](../python-security-scripts) | Python scripts for log parsing and automation |
-| [linux-labs](../linux-labs) | Linux command-line lab notes and outputs |
-
----
-
-### Certifications & Badges
-
-> Badges will be added upon course completion.
-
-- 🏅 Google Cybersecurity Professional Certificate *(in progress)*
-- ☁️ AWS Cloud Practitioner *(in progress)*
-
----
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/your-username)
-
----
-
-*This portfolio is actively updated as I progress through the programme.*
-
----
 
