@@ -1,5 +1,3 @@
-![image](https://github.com/SWE-StaceyL/Google-Cybersecurity-Portfolio/blob/main/0.png?raw=true)
-
 ### Cybersecurity Portfolio
 Welcome to my Cybersecurity Portfolio
 This repository showcases a collection of hands-on projects and labs completed as part of my cybersecurity certifications and professional development. It demonstrates the practical, technical skills acquired across nine completed courses, culminating in certification upon successful completion — reflecting both my foundational knowledge and applied technical expertise in the field.
