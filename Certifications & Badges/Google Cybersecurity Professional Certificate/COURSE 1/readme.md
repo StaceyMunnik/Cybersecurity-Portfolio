@@ -1,7 +1,0 @@
-# Foundations of Cybersecurity
-
-This module delivers a comprehensive overview of Course 1 and serves as a formal introduction to the security certificate program. It acquaints learners with the instructor, the Coursera platform, available content types, and established learning procedures, while also facilitating peer engagement among participants. The module defines the field of security, outlines the primary professional responsibilities of security practitioners, and emphasizes the core competencies required in the discipline. Additionally, Module 1 provides structured career guidance for learners seeking to pursue opportunities within the security field.
-
-<img width="990" height="766" alt="Screenshot 2026-08-26 183046" src="https://github.com/user-attachments/assets/9c73390d-9adb-4a6c-97c3-28a2a1c26e28" />
-
-
