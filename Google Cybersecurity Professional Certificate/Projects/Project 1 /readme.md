@@ -15,8 +15,10 @@ Skills: Database querying, data filtering, investigative triage
 
 Tools: SQL, relational database querying
 
-<img width="867" height="885" alt="Screenshot 2026-03-14 165357" src="https://github.com/user-attachments/assets/cfa4f698-3f49-4788-afd2-2e98bab0d764" />
+<img width="987" height="585" alt="Screenshot 2026-03-14 165357" src="https://github.com/user-attachments/assets/cfa4f698-3f49-4788-afd2-2e98bab0d764" />
 
-<img width="887" height="877" alt="Screenshot 2026-03-14 173314" src="https://github.com/user-attachments/assets/e12602aa-528a-4283-b76c-0bb05b26dbf8" />
 
-<img width="894" height="881" alt="Screenshot 2026-03-14 180046" src="https://github.com/user-attachments/assets/cc4238ca-095c-4fb1-8082-8bb70ef53c46" />
+<img width="987" height="885" alt="Screenshot 2026-03-14 173314" src="https://github.com/user-attachments/assets/e12602aa-528a-4283-b76c-0bb05b26dbf8" />
+
+
+<img width="987" height="885" alt="Screenshot 2026-03-14 180046" src="https://github.com/user-attachments/assets/cc4238ca-095c-4fb1-8082-8bb70ef53c46" />
